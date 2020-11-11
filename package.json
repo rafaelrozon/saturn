@@ -1,0 +1,13 @@
+{
+  "name": "saturn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelrozon/saturn.git",
+  "author": "Rozon, Rafael <rafaelrozon.developer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "hygen": "^6.0.4"
+  },
+  "scripts": {}
+}
