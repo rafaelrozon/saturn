@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "license": "MIT",
   "repository": "https://github.com/rafaelrozon/saturn.git",
-  "author": "Rozon, Rafael (Best Buy Canada) <rafaelrozon.developer@gmail.com>",
+  "author": "Rafael Rozon <rafaelrozon.developer@gmail.com>",
   "main": "index.js",
+  "engines": {
+      "pnpm": ">=5.*",
+      "node": ">=12.18.*"
+  },
   "scripts": {
     "format": "prettier-eslint --write \"$PWD/src/**/*.[tj]s\"",
     "format:check": "prettier --check \"$PWD/src/**/*.[tj]s\"",
