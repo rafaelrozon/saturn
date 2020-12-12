@@ -41,7 +41,7 @@
   },
   "scripts": {
     "format:check": "prettier --check \"$PWD/src/**/*.[tj]s\"",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "lint": "eslint src --ext .ts --ext .tsx --ext .js --ext .jsx",
     "format": "prettier-eslint --write \"$PWD/src/**/*.[tj]s\"",
     "format:pkg": "format-package -w",
