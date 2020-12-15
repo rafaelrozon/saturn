@@ -6,6 +6,7 @@
   "author": "Rozon, Rafael <rafaelrozon.developer@gmail.com>",
   "main": "index.js",
   "devDependencies": {
+    "@rushstack/heft": "^0.23.0",
     "@babel/core": "^7.12.10",
     "@babel/preset-typescript": "^7.12.7",
     "@types/jest": "^26.0.19",

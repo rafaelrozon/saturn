@@ -1,0 +1,14 @@
+dependencies:
+  '@rush-temp/core': 'file:projects/core.tgz'
+lockfileVersion: 5.2
+packages:
+  'file:projects/core.tgz':
+    dev: false
+    name: '@rush-temp/core'
+    resolution:
+      integrity: sha512-X5o/o2dRisaCS6ZwtWPnhkkBCwz42hX5j4asik/57mC/h4yKM16WzIEeH0SS1dSTGGuTPjtqO+p72o5P0ynUqw==
+      tarball: 'file:projects/core.tgz'
+    version: 0.0.0
+registry: ''
+specifiers:
+  '@rush-temp/core': 'file:./projects/core.tgz'
