@@ -28,3 +28,4 @@ I will build a platform where users can trade used video games. Some basic featu
 1. Setup monorepo
    1. Define structure and which monorepo management tool to use (Lerna, Yarn, etc)
    2. Setup tools: ESLint, Jest, Typescript, Commitlint
+   3. Change git hook on pre-push to run test for modified files only
