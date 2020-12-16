@@ -4,9 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "heft build --clean",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@rushstack/heft": "~0.23.0"
+  },
+  "devDependencies": {
+      "typescript": "^4.1.3"
+  }
 }

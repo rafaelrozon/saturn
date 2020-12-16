@@ -2,6 +2,9 @@
   "name": "@saturn/test-lib",
   "version": "1.0.0",
   "license": "MIT",
+  "scripts": {
+      "build": "echo 'nothing to build here'"
+  },
   "dependencies": {
       "@saturn/core": "*"
   }
